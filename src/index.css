@@ -4,7 +4,10 @@ body {
   font-family: Inter, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #7700ee;
+  background-color: #221C35;
+  background-image: url("../public/SLIDE_DigitalTwins.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
   color: #fff;
   overflow-x: hidden;
 }
